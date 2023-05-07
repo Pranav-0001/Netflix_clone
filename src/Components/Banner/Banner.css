@@ -1,5 +1,5 @@
 .Banner{
-    background-image: url('https://occ-0-4825-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfXRlTSW0Z-sGMnuQJgwWCq_t9g34DirnIT6xZtzlN1fnrpycjKizGPMh9_ePMNrrnsfbmuhucVZeQixbuTY1aVgBPz6tc29ahCA.webp?r=886');
+   
     background-size: cover;
     height: 634px;
     color: white;
@@ -14,6 +14,7 @@
     font-size: 3rem;
     font-weight: 800;
     padding-bottom: 0.3rem;
+    max-width: 500px;
 }
 .button{
     color: white;
