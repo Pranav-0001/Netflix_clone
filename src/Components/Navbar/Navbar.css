@@ -6,15 +6,33 @@ width: 100%;
 height: 30px;
 display: flex;
 justify-content: space-between;
-background-color: #111;
+/* background-color: #111; */
+padding-top: 10px;
+}
+.navitems{
+    position: fixed;
+   
+    left: 120px;
+    display: flex;
+    color: white;
+}
+.navitems p{
+    margin-left: 12px;
+    cursor: pointer;
+
+}
+.navitems p:hover{
+    opacity: 0.8;
 }
 .logo{
 position: fixed;
 left: 20px;
 width: 80px;
+cursor: pointer;
 }
 .avatar{
 position: fixed;
 right: 20px;
 width: 30px;
+cursor: pointer;
 }
